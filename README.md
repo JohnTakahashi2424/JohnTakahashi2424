@@ -3,21 +3,26 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/16/23/e4/1623e4d8fb415e610d48a1d7c3bb5011.gif" width="100%" height="250" style="object-fit: cover; border-radius: 8px;">
   <br><br>
-  <h1>Evangelion Unit-00 | [Jonathan Takahashi]</h1>
+  <h1>Evangelion Unit-00 | Jonathan Takahashi</h1>
   <p><i>"I am me. The person standing here."</i></p>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 💠 Informacion Personal (About Me)
-Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sistemas. Me muevo entre el desarrollo web, buscando siempre que el código se vea bonito y lo mas eficiente como sea posible.
+### 💠 Información Personal (About Me)
+
+<img align="right" width="240" style="border-radius: 10px;" src="https://i.pinimg.com/originals/c9/ed/75/c9ed75a171e2fc60f60de792f392dd44.gif" alt="Rei Ayanami Lofi">
+
+Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sistemas. Me muevo entre el desarrollo web, buscando siempre que el código se vea bonito y lo más eficiente posible.
 
 * ⚙️ **Core Stack:** JavaScript, Vue.js, HTML, CSS, Bootstrap.
 * 🗄️ **Data:** SQL Server, diseño y administración de bases de datos.
 * 🎓 **Status:** Estudiante de ingeniería, actualmente aprendiendo para ser una persona de bien en un futuro no muy lejano.
-* 🎧 **BGM:** Siempre programando con buen J-Pop y K-pop de fondo para mantener la concentración y la buena vibra.
+* 🎧 **BGM:** Siempre programando con buen J-Pop y K-pop de fondo. Mi loop actual incluye *One Last Kiss* para mantener la concentración y la buena vibra.
 
----
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 🛠️ Arsenal / Tecnologías
 <div align="center">
@@ -29,7 +34,8 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 
----
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 📊 NERV Terminal Stats
 <div align="center">
@@ -42,18 +48,3 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
 <div align="center">
   <i>"Man fears the darkness, and so he scrapes away at the edges of it with fire."</i>
 </div>
-
-<!--
-**JohnTakahashi2424/JohnTakahashi2424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
