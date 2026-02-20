@@ -24,7 +24,8 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-### 🛠️ Arsenal / Tecnologías
+### 🛠️ Arsenal / Tecnologías <img src="https://64.media.tumblr.com/88807080767001185457807050778070/tumblr_inline_p6v69008081vvaddz_75sq.gif" width="35" style="vertical-align: middle;">
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
@@ -47,4 +48,6 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
 
 <div align="center">
   <i>"Man fears the darkness, and so he scrapes away at the edges of it with fire."</i>
+  <br><br>
+  <img src="https://i.pinimg.com/originals/50/89/87/50898770306807500008070707070707.gif" width="100%" style="border-radius: 10px;">
 </div>
