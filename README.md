@@ -1,10 +1,11 @@
 ## Hi, Hi it's me again, I'm Back ⭐
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
 <div align="center">
   <img src="https://i.pinimg.com/originals/16/23/e4/1623e4d8fb415e610d48a1d7c3bb5011.gif" width="100%" height="250" style="object-fit: cover; border-radius: 8px;">
   <br><br>
   <h1>Evangelion Unit-00 | Jonathan Takahashi</h1>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   <p><i>"I am me. The person standing here."</i></p>
 </div>
 
