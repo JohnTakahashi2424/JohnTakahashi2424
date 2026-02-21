@@ -22,7 +22,7 @@
       </td>
       <td>
         <img 
-          src="https://i.pinimg.com/originals/77/1e/3c/771e3c051748890eff58fe448e9fc0e1.gif" 
+          src="https://i.pinimg.com/originals/b8/4e/87/b84e87060a9fe0a07df76b07bcb53645.gif" 
           width="300"
           style="border-radius: 10px;"
         />
