@@ -42,7 +42,10 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnTakahashi2424&theme=tokyonight&show_icons=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnTakahashi2424&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/9dba34ca-a53d-4653-8510-115510d0d0c4" />
+" />
 </div>
+
 
 <br>
 
