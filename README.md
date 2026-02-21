@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 <img src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" /> 
-<img src="https://github.com/user-attachments/assets/c1cf8b64-32a9-4ee3-9388-eb8034533033" />
+<img src="https://i.pinimg.com/originals/77/1e/3c/771e3c051748890eff58fe448e9fc0e1.gif" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
