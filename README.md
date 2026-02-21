@@ -7,7 +7,7 @@
   <p><i>"I am me. The person standing here."</i></p>
 </div>
 
-<img = src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" />
+<img src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" />
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
