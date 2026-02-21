@@ -74,6 +74,13 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
 
 <br>
 
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+
 <div align="center">
   <i>"Man fears the darkness, and so he scrapes away at the edges of it with fire."</i>
   <br><br>
