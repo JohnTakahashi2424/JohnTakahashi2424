@@ -9,19 +9,21 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
 
   <img 
-    src="https://i.pinimg.com/originals/a4/04/e8/a404e87f71f7679804540b7d59865ed3.gif" 
-    width="400"
-    style="border-radius: 10px;"
+    src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif"
+    width="350"
+    style="display: inline-block; margin-right: 15px; border-radius: 10px;"
   />
 
   <img 
-    src="https://i.pinimg.com/originals/77/1e/3c/771e3c051748890eff58fe448e9fc0e1.gif" 
-    width="400"
-    style="border-radius: 10px;"
+    src="https://i.pinimg.com/originals/77/1e/3c/771e3c051748890eff58fe448e9fc0e1.gif"
+    width="350"
+    style="display: inline-block; margin-left: 15px; border-radius: 10px;"
   />
+
+</div>
 
 </div>
 
