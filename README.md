@@ -7,6 +7,8 @@
   <p><i>"I am me. The person standing here."</i></p>
 </div>
 
+<img = src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" />
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
 ### 💠 Información Personal (About Me)
@@ -44,7 +46,6 @@ Hola. Soy estudiante de ingeniería, dedicándome a construir y estructurar sist
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnTakahashi2424&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-  <img src="<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/9dba34ca-a53d-4653-8510-115510d0d0c4" />
 
 <br>
 
