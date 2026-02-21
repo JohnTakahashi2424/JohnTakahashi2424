@@ -15,7 +15,7 @@
     <tr>
       <td>
         <img 
-          src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" 
+          src="https://i.pinimg.com/originals/a4/04/e8/a404e87f71f7679804540b7d59865ed3.gif" 
           width="300"
           style="border-radius: 10px;"
         />
