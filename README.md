@@ -12,7 +12,7 @@
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
   <img 
-    src="https://i.pinimg.com/originals/7c/ae/b6/7caeb6bc2119265aac3eafe3c39d8a5a.gif" 
+    src="https://github.com/user-attachments/assets/fa699544-d3ca-44f3-80c0-15a46a91632f" 
     width="400"
     style="border-radius: 10px;"
   />
