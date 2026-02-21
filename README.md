@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
   <br><br>
   <h1>Evangelion Unit-00 | Jonathan Takahashi</h1>
-  <p><i>"I am me. The person standing here."</i></p>
+  <p><i>"Oh, can you give me one last kiss? 🎧🎵😌."</i></p>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
