@@ -22,7 +22,7 @@
       </td>
       <td>
         <img 
-          src="https://media1.tenor.com/m/4y1-GoenWJkAAAAC/rei-rei-ayanami.gif" 
+          src="https://i.pinimg.com/originals/b8/4e/87/b84e87060a9fe0a07df76b07bcb53645.gif" 
           width="300"
           style="border-radius: 10px;"
         />
